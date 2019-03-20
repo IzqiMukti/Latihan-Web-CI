@@ -1,70 +1,19 @@
-###################
-What is CodeIgniter
-###################
-
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
-
-*******************
-Release Information
-*******************
-
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
-
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
-
-*******************
-Server Requirements
-*******************
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+![gallerycozyhotel](https://user-images.githubusercontent.com/35458903/54670052-61e85500-4b25-11e9-9c1a-6489b94079be.JPG)
+![halamancozy](https://user-images.githubusercontent.com/35458903/54670054-6280eb80-4b25-11e9-87f8-d98c909d6e96.JPG)
+![halamancozy2](https://user-images.githubusercontent.com/35458903/54670055-63198200-4b25-11e9-8e34-64c45dd68647.JPG)
+![kamarcozyhotel](https://user-images.githubusercontent.com/35458903/54670056-63198200-4b25-11e9-901c-83eba5898a1a.JPG)
+![kritiksarancozyhotel](https://user-images.githubusercontent.com/35458903/54670057-63198200-4b25-11e9-9673-52a070130c2c.JPG)
+![tentangkamicozyhotel](https://user-images.githubusercontent.com/35458903/54670058-63b21880-4b25-11e9-8236-1c9beb6b006a.JPG)
+![designer](https://user-images.githubusercontent.com/35458903/54670059-63b21880-4b25-11e9-9148-8eac186d6a13.JPG)
+![detailkamar](https://user-images.githubusercontent.com/35458903/54670061-63b21880-4b25-11e9-9da7-442f6f933521.JPG)
+![sistemadmin2](https://user-images.githubusercontent.com/35458903/54670089-762c5200-4b25-11e9-8222-a5f0c507ffc9.JPG)
+![checkout](https://user-images.githubusercontent.com/35458903/54670090-76c4e880-4b25-11e9-98fb-00fd2539b733.JPG)
+![kamaradmin](https://user-images.githubusercontent.com/35458903/54670092-76c4e880-4b25-11e9-930b-8062323b64a4.JPG)
+![kritiksaran](https://user-images.githubusercontent.com/35458903/54670093-775d7f00-4b25-11e9-8f40-cc0ec02cd3e6.JPG)
+![loginadmin](https://user-images.githubusercontent.com/35458903/54670096-77f61580-4b25-11e9-8d8c-f5fe5bedf031.JPG)
+![pemesanan](https://user-images.githubusercontent.com/35458903/54670101-79274280-4b25-11e9-830d-29d9db47aa65.JPG)
+![perpanjang](https://user-images.githubusercontent.com/35458903/54670103-79274280-4b25-11e9-843f-e60b98ed1a12.JPG)
+![reservaasi](https://user-images.githubusercontent.com/35458903/54670105-79bfd900-4b25-11e9-83d9-2250cc8ff907.JPG)
+![settingtentangkami1](https://user-images.githubusercontent.com/35458903/54670107-7a586f80-4b25-11e9-8bbb-b7507448ca09.JPG)
+![settingtentangkami2](https://user-images.githubusercontent.com/35458903/54670109-7a586f80-4b25-11e9-80bc-9f5aa1a84b0c.JPG)
+![sistemadmin1](https://user-images.githubusercontent.com/35458903/54670111-7af10600-4b25-11e9-9922-00a7d37998b4.JPG)
